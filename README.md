@@ -8,4 +8,4 @@ Everything is coded in Python with a large use of numpy as well as matplolib to 
 \
 **Week-2:** In Week-2, I learnt about loss function first, then the methods on how a training model improves it accuracy by optimizing the weights and biases, reducing overfitting caused due to a lot of extra features which are not needed but are still accounted for by the model. \
 Regularization was also discussed and also about how too much regularization can lead to underfitting. \
-As an assignment, a model was built which classified different handwritten digits, the model was successfully able to classify the digits in the test dataset with some errors but with good accuracy. \
+As an assignment, a model was built which classified different handwritten digits, the model was successfully able to classify the digits in the test dataset with some errors but with good accuracy.
